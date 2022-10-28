@@ -1,0 +1,60 @@
+*{
+    padding:0;
+    margin: 0;
+  }
+  nav{
+    background-color: #2874f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+    
+  }
+  .plus-color{
+    color: yellow;
+    font-weight: 900;
+  }
+  .logo p{
+    color: white;
+    position: relative;
+    top: -5px;
+  }
+  .search{
+    background-color: white;
+    padding: 8px;
+    width: 420px;
+    height: 20px;
+    margin: 0px 15px;
+    display: flex;
+    justify-content: space-between;
+    color: #2874f0;
+    box-shadow: -7px -7px 10px rgba(0,0,0,0,1),
+    7px 7px 10px rgba(0,0,0,0,1),
+    border-radius: 2px; 
+  }
+  .search input{
+    width: 380px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+  }
+  .loginbtn{
+    padding: 7px 40px;
+    font-size: 16px;
+    font-weight: 555;
+    border: none;
+    outline: none;
+    color: #2874f0;
+    background-color: white;
+  }
+
+  .Navlink{
+    margin: 0px 20px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+  }
+
+  .angledownIcon i{
+    font-size: 10px;
+  }
